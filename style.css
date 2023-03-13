@@ -1,0 +1,30 @@
+.pages {
+    background-color: rgb(219, 192, 104);
+    align-items: center;
+    justify-content: center;
+}
+
+.img {
+    width: 300px;
+
+}
+
+img {
+    width: 100%;
+}
+
+.list {
+    display: flex;
+    gap: 50px;
+    list-style: none;
+}
+
+.body {
+    background-image: linear-gradient( to right bottom, pink, blue, green 50%);
+    background-size: cover;
+}
+
+.body2 {
+    background-color: chartreuse;
+}
+
